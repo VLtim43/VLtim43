@@ -52,11 +52,11 @@
 <details open>
 <summary>📈 &ensp; <i>Activity</i></summary>
 <br>
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=FernandoValentim43&theme=tokyo-night&hide_border=true">
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=VLtim43&theme=tokyo-night&hide_border=true">
 <br><br>
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoValentim43&langs_count=8&theme=tokyonight&hide_border=true"> 
+<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLtim43&langs_count=8&theme=tokyonight&hide_border=true"> 
 <div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=FernandoValentim43&show_icons=true&custom_title=FernandoValentim43's%20Github%20Stats&theme=tokyonight&hide_border=true"> 
+<img height="203px" src="https://github-readme-stats.vercel.app/api?username=VLtim43&show_icons=true&custom_title=VLtim43's%20Github%20Stats&theme=tokyonight&hide_border=true"> 
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FernandoValentim43&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 </div>
