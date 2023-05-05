@@ -12,7 +12,7 @@
 
 
 <p align="left">
-  💌 Check my linkedin?: ⤵️
+  💌 Check my linkedin: ⤵️
 </p>
 
 <p align="left">
