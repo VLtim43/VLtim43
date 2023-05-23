@@ -6,7 +6,7 @@
 
 - 👨‍💻 Web developer with `Typescript` and `ReactJS`
 - ⚙️ Backend with `Node` and `MongoDB`
-- 🔭 I’m currently studying `C#` and `Python`
+- 🔭 I’m currently studying `Swift` and `C#`
 - 👯 I’m looking to learn more about `Mobile` development 
 - <img  src="./thoughtworks-gif_dribbble.gif" align="right" />
 
