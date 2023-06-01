@@ -4,7 +4,7 @@
 
 <h2>📇 &ensp; <i>About me</i></h2>
 
-- 👨‍💻 Web developer with `Typescript` and `ReactJS`
+- 👨‍💻 Developer with `Typescript` and `ReactJS`
 - ⚙️ Backend with `Node` and `MongoDB`
 - 🔭 I’m currently studying `Swift` and `C#`
 - 👯 I’m looking to learn more about `Mobile` development 
