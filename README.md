@@ -52,7 +52,7 @@
 <details open>
 <summary>📈 &ensp; <i>Activity</i></summary>
 <br>
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=VLtim43&theme=tokyo-night&hide_border=true">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=tokyo-night&hide_border=true&show_icons=true">
 <br><br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLtim43&langs_count=8&theme=tokyonight&hide_border=true"> 
 <div align="right">
