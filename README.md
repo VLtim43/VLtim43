@@ -6,13 +6,15 @@
 
 - 👨‍💻 Developer with `Typescript` and `ReactJS`
 - ⚙️ Backend with `Node` and `MongoDB`
-- 🔭 I’m currently studying `Swift` and `C#`
+- 🔭 I’m currently studying `NextJS` 
 - 👯 I’m looking to learn more about `Mobile` development 
-- <img  src="./thoughtworks-gif_dribbble.gif" align="right" />
+- Some of my projects are <a href="[url](https://app.netlify.com/sites/snazzy-boba-3f2ddb/overview)">Krunch Landing Page</a>
+
+
 
 
 <p align="left">
-  💌 Check my linkedin: ⤵️
+   Check my linkedin: ⤵️
 </p>
 
 <p align="left">
