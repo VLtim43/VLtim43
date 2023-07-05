@@ -8,7 +8,7 @@
 - ⚙️ Backend with `Node` and `MongoDB`
 - 🔭 I’m currently studying `NextJS` 
 - 👯 I’m looking to learn more about `Mobile` development 
-- Some of my projects are  <a href="https://snazzy-boba-3f2ddb.netlify.app/">React Landing Page</a> 
+- Some of my React projects are  <a href="https://snazzy-boba-3f2ddb.netlify.app/">Landing Page</a> , <a href="https://aiko-frontend.onrender.com/">Equipment</a> 
 
 
 
