@@ -1,17 +1,16 @@
 # VLtim43
+
 <img src="./ezgif.com-gif-maker.gif"  width="1000px" height="250px"> 
 <img src="https://www.alura.com.br/assets/img/imersoes/carreira-tech/submarino-recorte-2-red.1598018822.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Yanpedro18">
 
-<h2>📇 &ensp; <i>About me</i></h2>
+<h2>📇 &ensp; <i>About me</i></h2
+>
 
 - 👨‍💻 Developer with `Typescript` and `ReactJS`
 - ⚙️ Backend with `Node` and `MongoDB`
-- 🔭 I’m currently studying `NextJS` 
-- 👯 I’m looking to learn more about `Mobile` development 
-- Some of my React projects are  <a href="https://snazzy-boba-3f2ddb.netlify.app/">Landing Page</a> , <a href="https://aiko-frontend.onrender.com/">Equipment</a> 
-
-
-
+- 🔭 I’m currently studying `NextJS`
+- 👯 I’m looking to learn more about `Mobile` development
+- Some of my React projects are <a href="https://snazzy-boba-3f2ddb.netlify.app/">Landing Page</a> , <a href="https://aiko-frontend.onrender.com/">Equipment</a>
 
 <p align="left">
    Check my linkedin: ⤵️
@@ -19,12 +18,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fernando-valentim-619338237/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
-</p>  
-
-
+</p>
 
 <h2>🛠️ &ensp; <i>Technologies I use:</i></h2>
-
 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
@@ -46,8 +42,6 @@
 <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)" height="25px"/> 
 </p>
 
-
-
 <h2 align="center">
 <details open>
 <summary>📈 &ensp; <i>Activity</i></summary>
@@ -59,4 +53,3 @@
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=VLtim43&show_icons=true&custom_title=VLtim43's%20Github%20Stats&theme=tokyonight&hide_border=true"> 
 </details>
 <br>
-
