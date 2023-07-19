@@ -3,11 +3,10 @@
 <img src="./ezgif.com-gif-maker.gif"  width="1000px" height="250px"> 
 <img src="https://www.alura.com.br/assets/img/imersoes/carreira-tech/submarino-recorte-2-red.1598018822.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Yanpedro18">
 
-<h2>📇; <i>About me</i></h2
->
+<h2>📇<i>About me</i></h2>
 
 - 👨‍💻 Developer with `Typescript` and `ReactJS`
-- ⚙️ Backend with `Node` and `MongoDB`
+- ⚙️ Backend with `Node` 
 - 🔭 I’m currently studying `NextJS`
 - 👯 I’m looking to learn more about `Mobile` development
 - Some of my React projects are <a href="https://snazzy-boba-3f2ddb.netlify.app/">Landing Page</a> , <a href="https://aiko-frontend.onrender.com/">Equipment</a>
