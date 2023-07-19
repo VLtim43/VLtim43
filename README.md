@@ -3,7 +3,7 @@
 <img src="./ezgif.com-gif-maker.gif"  width="1000px" height="250px"> 
 <img src="https://www.alura.com.br/assets/img/imersoes/carreira-tech/submarino-recorte-2-red.1598018822.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Yanpedro18">
 
-<h2>📇 &ensp; <i>About me</i></h2
+<h2>📇; <i>About me</i></h2
 >
 
 - 👨‍💻 Developer with `Typescript` and `ReactJS`
@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/fernando-valentim-619338237/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 </p>
 
-<h2>🛠️ &ensp; <i>Technologies I use:</i></h2>
+<h2>🛠️; <i>Technologies I use:</i></h2>
 
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
@@ -44,7 +44,7 @@
 
 <h2 align="center">
 <details open>
-<summary>📈 &ensp; <i>Activity</i></summary>
+<summary>📈; <i>Activity</i></summary>
 <br>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=tokyo-night&hide_border=true&show_icons=true">
 <br><br>
