@@ -47,7 +47,9 @@
 <br>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=tokyo-night&hide_border=true&show_icons=true">
 <br><br>
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLtim43&langs_count=8&theme=tokyonight&hide_border=true"> 
+
+   
+<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLtim43&langs_count=10&theme=tokyonight&hide_border=true&layout=donut"> 
 <div align="right">
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=VLtim43&show_icons=true&custom_title=VLtim43's%20Github%20Stats&theme=tokyonight&hide_border=true"> 
 </details>
