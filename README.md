@@ -44,9 +44,6 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/> 
 <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)" height="25px"/> 
 </p>
+https://vltim43-github-readme-stats-git-master-fernandovalentim43.vercel.app/
 
-
-
-<img align="center" src="github-readme-stats-git-master-fernandovalentim43.vercel.app/graph?username=VLtim43&theme=tokyo-night&hide_border=true&show_icons=true">
-
-
+<img height="180cm" src="https://vltim43-github-readme-stats-git-master-fernandovalentim43.vercel.app/api?username=VLtim43&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
