@@ -28,8 +28,10 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=cobalt&hide_border=true&show_icons=true"/> 
 <br>              
-<div  align="center">       
- <img src="https://github-readme-stats.vercel.app/api?username=VLtim43&include_all_commits=true&count_private=true&theme=cobalt&hide_border=true&show_icons=true"/> 
- <img src="https://github-readme-stats.vercel.app/api?username=VLtim43&include_all_commits=true&count_private=true&theme=cobalt&hide_border=true&show_icons=true"/> 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLtim43&langs_count=10&layout=donut-vertical&theme=cobalt&hide_border=true&show_icons=true"/>            
-</div>  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VLtim43&include_all_commits=true&count_private=true&theme=cobalt&hide_border=true&show_icons=true"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLtim43&langs_count=10&layout=compact&theme=cobalt&hide_border=true&show_icons=true&card_width=320"/>
+</a>
