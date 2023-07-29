@@ -45,16 +45,8 @@
 <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)" height="25px"/> 
 </p>
 
-<h2 align="center">
-<details open>
-<summary>📈; <i>Activity</i></summary>
-<br>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=tokyo-night&hide_border=true&show_icons=true">
-<br><br>
 
-   
-<img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLtim43&langs_count=10&theme=tokyonight&hide_border=true&layout=donut"> 
-<div align="right">
-<img height="203px" src="https://github-readme-stats.vercel.app/api?username=VLtim43&show_icons=true&custom_title=VLtim43's%20Github%20Stats&theme=tokyonight&hide_border=true"> 
-</details>
-<br>
+
+<img align="center" src="github-readme-stats-alpha-eosin.vercel.app/graph?username=VLtim43&theme=tokyo-night&hide_border=true&show_icons=true">
+
+
