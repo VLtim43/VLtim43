@@ -1,5 +1,5 @@
-# Vltim43 <img align="right" src="https://github.com/VLtim43/VLtim43/assets/69370181/dea9cbdc-f153-4af8-87f5-70c182b30a29">
 
+![image](https://github.com/VLtim43/VLtim43/assets/69370181/c0c61f77-2907-480f-93bc-69bf9112d237)
 
 <img src="./ezgif.com-gif-maker.gif"  width="1000px" height="250px"> 
 <img src="https://www.alura.com.br/assets/img/imersoes/carreira-tech/submarino-recorte-2-red.1598018822.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Yanpedro18">
