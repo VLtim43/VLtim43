@@ -28,7 +28,7 @@
 <br>          
 
 <a href="https://github.com/VLtim43">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VLtim43&include_all_commits=true&count_private=true&theme=cobalt&hide_border=true&show_icons=true&card_width=320"/> 
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VLtim43&include_all_commits=true&count_private=true&theme=cobalt&hide_border=true&show_icons=true&card_width=290"/> 
 </a>
 <a href="https://github.com/VLtim43">
   <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLtim43&langs_count=10&layout=compact&theme=cobalt&hide_border=true&show_icons=true&card_width=440"  />
