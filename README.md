@@ -15,13 +15,7 @@
 - 👯 I’m looking to learn more about `Mobile` development
 - Some of my React projects are <a href="https://snazzy-boba-3f2ddb.netlify.app/">Landing Page</a> , <a href="https://aiko-frontend.onrender.com/">Equipment</a>
 
-<p align="left">
-   Check my linkedin: ⤵️
-</p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/fernando-valentim-619338237/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
-</p>
 
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/> 
