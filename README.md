@@ -18,7 +18,7 @@
 
 
 
-<img align="center" src="https://github-readme-stats-nu-six-36.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/> 
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/> 
 <br>          
 
 
