@@ -24,12 +24,12 @@
 
 
 <a href="https://github.com/VLtim43">
-  <img height=200  src="https://github-readme-stats-nu-six-36.vercel.app/api?username=VLtim43&theme=transparent&hide_border=true&rank_icon=github" />
+  <img  height=200 align="center" src="https://github-readme-stats-nu-six-36.vercel.app/api?username=VLtim43&theme=transparent&hide_border=true&rank_icon=github" />
 
 </a>
 
 <a href="https://github.com/VLtim43">
-    <img src="https://github-readme-stats-nu-six-36.vercel.app/api/wakatime?username=VLtim43&layout=compact&theme=transparent&hide_border=true" />
+    <img   height=200 align="center" src="https://github-readme-stats-nu-six-36.vercel.app/api/wakatime?username=VLtim43&layout=compact&theme=transparent&hide_border=true" />
 </a>
 
 
