@@ -23,7 +23,13 @@
 
 
 
-
-  <img height=200 align="center" src="https://github-readme-stats-nu-six-36.vercel.app/api?username=VLtim43&theme=transparent&hide_border=true&rank_icon=github" /></a>
-  <img  align="center" src="https://github-readme-stats-nu-six-36.vercel.app/api/top-langs?username=VLtim43&layout=donut-vertical&langs_count=10&card_width=320&theme=transparent&hide_border=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200  src="https://github-readme-stats-nu-six-36.vercel.app/api?username=VLtim43&theme=transparent&hide_border=true&rank_icon=github" /></a>
   <img src="https://github-readme-stats-nu-six-36.vercel.app/api/wakatime?username=VLtim43&layout=compact&theme=transparent&hide_border=true" />
+
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img  align="center" src="https://github-readme-stats-nu-six-36.vercel.app/api/top-langs?username=VLtim43&layout=donut-vertical&langs_count=10&card_width=320&theme=transparent&hide_border=true" />
+
+</a>
