@@ -29,5 +29,5 @@
   <img height=200 align="center" src="https://github-readme-stats-nu-six-36.vercel.app/api/top-langs?username=VLtim43&layout=compact&langs_count=10&hide=html&card_width=320&theme=transparent&hide_border=true" />
 </a>
 <a href="https://github.com/VLtim43">
-  <img src="https://github-readme-stats-nu-six-36.vercel.app/api/wakatime?username=VLtim43&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats-nu-six-36.vercel.app/api/wakatime?username=VLtim43&layout=compact&theme=transparent&hide=ezhil,assembly,python&hide_border=true" />
 </a>
