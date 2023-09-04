@@ -20,6 +20,7 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/> 
 <br>     
+
 <img height=200 align="center" src="https://vltim43-readme-stats.vercel.app/api?username=VLtim43&theme=transparent&hide_border=true&rank_icon=github" /></a>
 <a href="https://github.com/VLtim43">
   <img  align="center" src="https://vltim43-readme-stats.vercel.app/api/top-langs?username=VLtim43&layout=compact&langs_count=20&card_width=320&theme=transparent&hide_border=true" />
