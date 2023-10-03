@@ -15,6 +15,15 @@
 - 👯 I’m looking to learn more about `Mobile` development
 - Some of my React projects are <a href="https://snazzy-boba-3f2ddb.netlify.app/">Landing Page</a> , <a href="https://aiko-frontend.onrender.com/">Equipment</a>
 
+<h2><i>To-do list of side projects</i></h2>
+- Astro framework shocase(60%)
+- Yup Form (80%)
+- Spotify Scrapper (30%)
+- LitElement and Bun app (0%)
+- NextJS and Lerna app (0%)
+
+
+
 
 
 
