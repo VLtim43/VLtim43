@@ -21,7 +21,8 @@
 -  Yup Form (80%)
 -  Spotify Scrapper (30%)
 -  LitElement and Bun app (0%)
--  NextJS and Lerna app (0%)
+-  NestJS and Lerna app (0%)
+-  NextJS app (0%)
 
 
 
