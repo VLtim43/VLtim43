@@ -17,7 +17,7 @@
 
 <h2><i>To-do list of side projects</i></h2>
 
--  Astro framework shocase(60%)
+-  Astro framework shocase (60%)
 -  Yup Form (80%)
 -  Spotify Scrapper (30%)
 -  LitElement and Bun app (0%)
