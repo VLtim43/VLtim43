@@ -14,11 +14,7 @@
 - 🔭 I’m currently studying `NextJS` and `Docker`
 - 👯 I’m looking to learn more about `Backend` development
 
-<h2><i>To-do list of side projects</i></h2>
 
--  Astro framework shocase (60%)
--  Yup Form (80%)
--  Spotify Scrapper (90%)
 
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/> 
