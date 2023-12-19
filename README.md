@@ -1,7 +1,7 @@
  
    
 <img src="https://github.com/VLtim43/VLtim43/assets/69370181/2f3bc66b-a513-4777-bc53-e4d62e1e09d8" alt="Stigmata Theme Screenshot">
-<a href="https://github.com/VLtim43/stigmata.zsh-theme">Zsh stigmata theme</a>
+<a href="https://github.com/VLtim43/stigmata.zsh-theme">Zsh stigmata theme I made and use</a>
 
 
 <img src="./ezgif.com-gif-maker.gif"  width="1000px" height="250px"> 
