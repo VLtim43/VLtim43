@@ -1,4 +1,3 @@
-![Metrics](/github-metrics.svg)
 
 <!-- Zsh Stigmata Theme Image and Link -->
   <img src="https://github.com/VLtim43/VLtim43/assets/69370181/2f3bc66b-a513-4777-bc53-e4d62e1e09d8" alt="Stigmata Theme Screenshot">
@@ -29,6 +28,9 @@
 
   <h2><i></i></h2>
 
+  <!-- Leetcode  -->
+
+![Metrics](/github-metrics.svg)
 
   
   <!-- GitHub Activity Graph -->
