@@ -33,9 +33,9 @@
 ![Metrics](/github-metrics.svg)
 
   
-  <!-- GitHub Activity Graph -->
+  <!-- GitHub Activity Graph 
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/> 
-  <br> 
+  <br> -->
 
   <!-- GitHub Stats -->
 
