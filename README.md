@@ -35,9 +35,9 @@
   
   <!-- GitHub Activity Graph -->
   <br> 
-  
+   <!--
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/> 
-
+   -->
   <!-- GitHub Stats -->
 
 <img height=200 align="center" src="https://vltim43-readme-stats.vercel.app/api?username=VLtim43&theme=transparent&hide_border=true&rank_icon=github" /></a>
