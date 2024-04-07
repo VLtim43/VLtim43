@@ -9,12 +9,14 @@
   <!-- Alura Image -->
   <!-- <img src="https://www.alura.com.br/assets/img/imersoes/carreira-tech/submarino-recorte-2-red.1598018822.png" style="min-width: 400px; max-width: 400px; width: 400px;" align="right" alt="Computador Yanpedro18"> -->
 
+ <h2><i></i></h2>
   <!-- Lerna Image -->
   <img src="https://github.com/VLtim43/VLtim43/assets/69370181/4dc12353-9d37-419d-8311-c0e5dc095e67" style="min-width: 400px; max-width: 400px; width: 400px;" align="right" alt="lerna"> 
-
+ 
+<h2><i></i></h2>
 
   <!-- About Me Section -->
-  <h2>📇<i>About me</i></h2>
+   <!-- <h2>📇<i>About me</i></h2>  -->
   <ul>
     <li>👨‍💻 Developer with Typescript and ReactJS</li>
     <li>⚙️ Backend with Node</li>
@@ -23,15 +25,15 @@
   </ul>
 
 
- <h2>👩🏻‍🍳🍰<i>Stuff i'm baking...</i></h2>
+<!-- <h2>👩🏻‍🍳🍰<i>Stuff i'm baking...</i></h2>  -->
   <ul>
     <li>Spotify-Scrapper with Bun</li>
     <li>Astro Showcase with multiple frontend frameworks</li>
     <li>Form with validation and Cypress tests E2E</li>
   </ul>
 
-  <h2><i></i></h2>
-
+<!--  <h2><i></i></h2> -->
+ 
   <!-- Leetcode  -->
   <!-- GitHub Activity Graph 
 ![Metrics](/github-metrics.svg)
