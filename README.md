@@ -14,8 +14,10 @@
 
 
   <!-- About Me Section -->
+  <h2>📇<i>About me</i></h2>
   <ul>
     <li>👨‍💻 Developer with Typescript and ReactJS</li>
+    <li>⚙️ Backend with Node</li>
     <li>🔭 I’m currently studying NextJS and Docker</li>
     <li>👯 I’m looking to learn more about Backend development</li>
   </ul>
