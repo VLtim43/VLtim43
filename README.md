@@ -32,9 +32,9 @@
 
 
  
-  <!-- Leetcode  -->
+  <!-- Leetcode  
   GitHub Activity Graph 
-![Metrics](/github-metrics.svg)
+![Metrics](/github-metrics.svg) -->
 
   
   <!-- GitHub Activity Graph -->
