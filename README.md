@@ -13,10 +13,9 @@
   <!-- Lerna Image -->
   <img src="https://github.com/VLtim43/VLtim43/assets/69370181/4dc12353-9d37-419d-8311-c0e5dc095e67" style="min-width: 400px; max-width: 400px; width: 400px;" align="right" alt="lerna"> 
  
-<h2><i></i></h2>
 
   <!-- About Me Section -->
-   <!-- <h2>📇<i>About me</i></h2>  -->
+  <h2>📇About me</h2> 
   <ul>
     <li>👨‍💻 Developer with Typescript and ReactJS</li>
     <li>⚙️ Backend with Node</li>
@@ -25,7 +24,7 @@
   </ul>
 
 
-<!-- <h2>👩🏻‍🍳🍰<i>Stuff i'm baking...</i></h2>  -->
+ <h2>👩🏻‍🍳🍰Stuff i'm cooking</h2> 
   <ul>
     <li>Spotify-Scrapper with Bun</li>
     <li>Astro Showcase with multiple frontend frameworks</li>
