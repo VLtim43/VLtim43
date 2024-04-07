@@ -22,7 +22,7 @@
     <li>👯 I’m looking to learn more about Backend development</li>
   </ul>
 
- <!--
+
  <h2>👩🏻‍🍳🍰<i>Stuff i'm baking...</i></h2>
   <ul>
     <li>Spotify-Scrapper with Bun</li>
@@ -32,7 +32,7 @@
 
   <h2><i></i></h2>
 
- Leetcode  -->
+  <!-- Leetcode  -->
   <!-- GitHub Activity Graph 
 ![Metrics](/github-metrics.svg)
 -->
