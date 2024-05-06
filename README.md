@@ -23,12 +23,6 @@
   </ul>
 
  <br> 
- <h2>👩🏻‍🍳🍰Stuff i'm cooking</h2> 
-  <ul>
-    <li>Spotify-Scrapper with Bun</li>
-    <li>Astro Showcase with multiple frontend frameworks</li>
-    <li>Form with validation and Cypress tests E2E</li>
-  </ul>
 
 
  
