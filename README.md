@@ -40,7 +40,7 @@
   
   <!-- GitHub Stats -->
 <a href="https://github.com/VLtim43">
- <img height=200 align="center" src="https://vltim43-readme-stats.vercel.app/api?username=VLtim43&theme=jolly&hide_border=true&rank_icon=github" /></a>
+ <img height=200 align="center" src="https://vltim43-readme-stats.vercel.app/api?username=VLtim43&theme=transparent&hide_border=true&rank_icon=github" /></a>
 </a>
 
 <a href="https://github.com/VLtim43">
