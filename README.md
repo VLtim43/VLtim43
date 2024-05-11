@@ -44,5 +44,5 @@
 </a>
 
 <a href="https://github.com/VLtim43">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VLtim43&layout=compact&&langs_count=8&theme=jolly&hide=ezhil,assembly,python&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VLtim43&layout=compact&&langs_count=8&theme=transparent&hide=ezhil,assembly,python&hide_border=true" />
 </a>
