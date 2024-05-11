@@ -39,8 +39,9 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/>  -->
   
   <!-- GitHub Stats -->
-
-<img height=200 align="center" src="https://vltim43-readme-stats.vercel.app/api?username=VLtim43&theme=jolly&hide_border=true&rank_icon=github" /></a>
+<a href="https://github.com/VLtim43">
+ <img height=200 align="center" src="https://vltim43-readme-stats.vercel.app/api?username=VLtim43&theme=jolly&hide_border=true&rank_icon=github" /></a>
+</a>
 
 <a href="https://github.com/VLtim43">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VLtim43&layout=compact&&langs_count=8&theme=jolly&hide=ezhil,assembly,python&hide_border=true" />
