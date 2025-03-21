@@ -9,7 +9,7 @@
 <!-- <img src="https://www.alura.com.br/assets/img/imersoes/carreira-tech/submarino-recorte-2-red.1598018822.png" style="min-width: 400px; max-width: 400px; width: 400px;" align="right" alt="Computador Yanpedro18"> -->
 
   <!-- Lerna Image -->
-<img src="https://github.com/VLtim43/VLtim43/assets/69370181/4dc12353-9d37-419d-8311-c0e5dc095e67" style="min-width: 400px; max-width: 400px; width: 400px;" align="right" alt="lerna">
+<img src="https://github.com/VLtim43/VLtim43/assets/69370181/4dc12353-9d37-419d-8311-c0e5dc095e67" style=";" align="right" alt="lerna">
 <br>
 
 <a href="https://github.com/VLtim43">
