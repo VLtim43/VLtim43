@@ -5,12 +5,6 @@
   <!-- GIF Image -->
 <img src="./ezgif.com-gif-maker.gif"  width="1000" height="250">
 
-
-<h2>About me</h2>
-<ul>
-<li>Developer with Typescript, React, Next and Node</li>
-</ul>
-
 <!-- Alura Image -->
 <!-- <img src="https://www.alura.com.br/assets/img/imersoes/carreira-tech/submarino-recorte-2-red.1598018822.png" style="min-width: 400px; max-width: 400px; width: 400px;" align="right" alt="Computador Yanpedro18"> -->
 
