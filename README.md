@@ -23,8 +23,7 @@
   <img  align="center" src="https://vltim43-readme-stats.vercel.app/api/top-langs?username=VLtim43&layout=compact&langs_count=20&hide=cool,html,dockerfile,lex,python&card_width=320&theme=transparent&hide_border=true" />
 </a>
 
- <br>
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/>  
+<!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/>   -->
   
   <!-- GitHub Stats -->
 <a href="https://github.com/VLtim43">
