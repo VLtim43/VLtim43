@@ -1,10 +1,9 @@
 <!-- Zsh Stigmata Theme Image and Link -->
 <img src="https://github.com/VLtim43/VLtim43/assets/69370181/2f3bc66b-a513-4777-bc53-e4d62e1e09d8" alt="Stigmata Theme Screenshot">
-<a href="https://github.com/VLtim43/stigmata.zsh-theme">Zsh stigmata theme I use</a>
+<h2><a href="https://github.com/VLtim43/stigmata.zsh-theme">Zsh stigmata theme I use</a></h2>
 
 <!-- GIF Image -->
 <img src="./ezgif.com-gif-maker.gif"  width="1000" height="250">
-
 <!-- Alura Image -->
 <!-- <img src="https://www.alura.com.br/assets/img/imersoes/carreira-tech/submarino-recorte-2-red.1598018822.png" style="min-width: 400px; max-width: 400px; width: 400px;" align="right" alt="Computador Yanpedro18"> -->
 
