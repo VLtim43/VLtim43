@@ -9,7 +9,7 @@
 
 
 <a href="https://github.com/VLtim43">
-  <img  align="center" src="https://vltim43-readme-stats.vercel.app/api/top-langs?username=VLtim43&layout=donut-vertical&langs_count=20&hide=cool,html,dockerfile,lex,python&card_width=320&theme=transparent&hide_border=true" />
+  <img  align="center" src="https://vltim43-readme-stats.vercel.app/api/top-langs?username=VLtim43&layout=donut-vertical&langs_count=20&hide=cool,html,dockerfile,lex,yacc&card_width=320&theme=transparent&hide_border=true" />
 </a>
 
 <!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/>   -->
