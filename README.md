@@ -1,8 +1,8 @@
-<!-- Zsh Stigmata Theme Image and Link -->
+<!-- Zsh Stigmata Theme Image and Link 
 <img src="https://github.com/VLtim43/VLtim43/assets/69370181/2f3bc66b-a513-4777-bc53-e4d62e1e09d8" alt="Stigmata Theme Screenshot">
 <h2><a href="https://github.com/VLtim43/stigmata.zsh-theme">Zsh stigmata theme I use</a></h2>
 <!-- Alura Image -->
-<!-- <img src="https://www.alura.com.br/assets/img/imersoes/carreira-tech/submarino-recorte-2-red.1598018822.png" style="min-width: 400px; max-width: 400px; width: 400px;" align="right" alt="Computador Yanpedro18"> -->
+<!-- <img src="https://www.alura.com.br/assets/img/imersoes/carreira-tech/submarino-recorte-2-red.1598018822.png" style="min-width: 400px; max-width: 400px; width: 400px;" align="right" alt="Computador Yanpedro18"> --> 
 
 <!-- Lerna Image -->
 <img src="https://github.com/user-attachments/assets/9f8399c7-97f3-4ced-b03f-27a4f5f95c06" style="min-width: 364px; max-width: 364px; width: 364px;" align="right" alt="lerna">
