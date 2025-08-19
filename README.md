@@ -7,15 +7,14 @@
 <!-- Lerna Image -->
 <img src="https://github.com/user-attachments/assets/9f8399c7-97f3-4ced-b03f-27a4f5f95c06" style="min-width: 364px; max-width: 364px; width: 364px;" align="right" alt="lerna">
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VLtim43&layout=donut-vertical&langs_count=20&hide=cool,html,dockerfile,lex,yacc&card_width=320&theme=transparent&hide_border=true" />
 
-<a href="https://github.com/VLtim43">
-  <img  align="center" src="https://vltim43-readme-stats.vercel.app/api/top-langs?username=VLtim43&layout=donut-vertical&langs_count=20&hide=cool,html,dockerfile,lex,yacc&card_width=320&theme=transparent&hide_border=true" />
-</a>
+
 
 <!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/>   -->
 <!-- GitHub Stats -->
 <a href="https://github.com/VLtim43">
- <img height=200 align="center" src="https://vltim43-readme-stats.vercel.app/api?username=VLtim43&theme=transparent&hide_border=true&rank_icon=github" /></a>
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VLtim43&theme=transparent&hide_border=true&rank_icon=github" /></a>
 </a>
 <a href="https://github.com/VLtim43">
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=VLtim43&layout=compact&&langs_count=8&theme=transparent&hide=ezhil&hide_border=true" />
