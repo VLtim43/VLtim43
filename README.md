@@ -9,8 +9,6 @@
 
 <img align="center" src="vltim43-github-stats-extended-front.vercel.app/api/top-langs?username=VLtim43&layout=donut-vertical&langs_count=20&hide=cool,html,dockerfile,lex,yacc,nsis,makefile,cmake&exclude_repo=Compilers&card_width=320&theme=transparent&hide_border=true" />
 
-[![GitHub Stats](https://vltim43-github-stats-extended-front.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=dark_github)](https://vltim43-github-stats-extended-front.vercel.app/api?username=anuraghazra&include_all_commits=true&theme=dark_github)
-
 <!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/>   -->
 <!-- GitHub Stats -->
 <a href="https://github.com/VLtim43">
