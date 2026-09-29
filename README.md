@@ -9,7 +9,7 @@
 
 <img src="https://github.com/user-attachments/assets/9f8399c7-97f3-4ced-b03f-27a4f5f95c06" style="min-width: 364px; max-width: 364px; width: 364px;" align="right" alt="lerna">
 
-<img align="center" src="https://vltim43-github-stats-extended-front.vercel.app/api/top-langs?username=VLtim43&layout=donut-vertical&langs_count=20&hide=cool,html,dockerfile,lex,yacc,nsis,makefile,cmake&exclude_repo=Compilers&card_width=320&theme=transparent&hide_border=true" />
+<img align="center" src="https://vltim43-github-stats-extended-front.vercel.app/api/top-langs?username=VLtim43&layout=donut-vertical&langs_count=20&hide=kotlin,cool,html,dockerfile,lex,yacc,nsis,makefile,cmake&exclude_repo=Compilers&card_width=320&theme=transparent&hide_border=true" />
 
 <!--<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=VLtim43&theme=dracula&hide_border=true&show_icons=true"/>-->
 
